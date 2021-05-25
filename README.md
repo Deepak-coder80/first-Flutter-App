@@ -13,22 +13,22 @@ BFH/recTKMyCAFfvH3KEo/2021
 1. Explaining the working of project
 2. Embed video of project demo
 ## Libraries used
-  splashscreen
-  introduction_screen
-  flutter_native_splash
-  firebase_core
-  firebase_auth
-  provider
-  google_sign_in
-  flutter_signin_button
-  flutter_switch
-  cloud_firestore
-  qr_code_scanner
-  path_provider
-  qr_flutter
-  barcode_scan_fix
-  flutter_spinkit
-  shared_preferences
+  splashscreen,
+  introduction_screen,
+  flutter_native_splash,
+  firebase_core,
+  firebase_auth,
+  provider,
+  google_sign_in,
+  flutter_signin_button,
+  flutter_switch,
+  cloud_firestore,
+  qr_code_scanner,
+  path_provider,
+  qr_flutter,
+  barcode_scan_fix,
+  flutter_spinkit,
+  shared_preferences,
 ## How to configure
 Instructions for setting up project
 ## How to Run
