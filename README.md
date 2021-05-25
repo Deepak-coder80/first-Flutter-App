@@ -10,9 +10,10 @@ BFH/recTKMyCAFfvH3KEo/2021
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
-1. Explaining the working of project
+1. The User can Download the App where as the merchant can use the web app. The merchant can sigin in on the web app [https://vizlog-9200d.web.app/] , by the link provided and create an account there. When he enters to the web app he can input his shop name then he will get a QR code . Print that and display infront of the shop, The User before enterd to the shop he want to be scan this QR code ,it will send the name , address, vaccine status and date and time of visit to the web app. Also user can see there recent visits on the home screen. 
 2. Embed video of project demo
 ## Libraries used
+  React ,
   splashscreen,
   introduction_screen,
   flutter_native_splash,
@@ -32,4 +33,4 @@ BFH/recTKMyCAFfvH3KEo/2021
 ## How to configure
 Instructions for setting up project
 ## How to Run
-Instructions for running
+The user can download the app using this link[]. and the merchant can log in and get QR code from the web app using this link [https://vizlog-9200d.web.app/] . The user want to be open the app and fill the form contains necessary details and scan the QR code provided by the merchant
